@@ -4,26 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b16b931c-775e-48f2-87fc-a6bcdd87c0ce" name="Changes" comment="" />
+    <list default="true" id="4fabdf86-c2f6-4356-bc68-f398d07c0f19" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
-  <component name="ProjectId" id="2X9rffYHGlubXJ5TUepsN8uOZIN" />
+  <component name="ProjectId" id="2XAVy3zYttYlKES48zAkk7MW3hr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,28 +21,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/saivelamuri/Desktop/JAVAIO/src/main/java/org/example",
     "onboarding.tips.debug.path": "/Users/saivelamuri/Desktop/JAVAIO/src/main/java/org/example/Main.java"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java/org/example" />
-    </key>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b16b931c-775e-48f2-87fc-a6bcdd87c0ce" name="Changes" comment="" />
-      <created>1698052240613</created>
+      <changelist id="4fabdf86-c2f6-4356-bc68-f398d07c0f19" name="Changes" comment="" />
+      <created>1698072123241</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1698052240613</updated>
+      <updated>1698072123241</updated>
     </task>
     <servers />
   </component>
