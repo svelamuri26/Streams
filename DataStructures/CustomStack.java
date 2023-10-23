@@ -62,12 +62,14 @@ public class CustomStack {
 //isEmpty(): Returns true if the stack is empty, otherwise false.
 
     public boolean isEmpty() {
+
         return (top == -1);
     }
 
 //isFull(): Returns true if the stack is full, otherwise false.
 
     public boolean isFull() {
+
         return (top == maxSize - 1);
     }
 }
