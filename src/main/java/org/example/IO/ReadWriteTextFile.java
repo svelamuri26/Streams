@@ -7,7 +7,7 @@ import java.io.IOException;
 
 public class ReadWriteTextFile {
     public static void main(String[] args) {
-        String inputFileName = "/Users/saivelamuri/Desktop/demo.txt";
+        String inputFileName = "/Users/saivelamuri/Desktop/source.txt";
         String outputFileName = "output.txt";
 
         try (FileReader fileReader = new FileReader(inputFileName);

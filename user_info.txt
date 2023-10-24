@@ -1,0 +1,6 @@
+User Information:
+Name: Sai
+Age: 39
+Email Address: sai@gmail.com	
+Phone Number: 1234567890
+Address: Berliner str 20 13595 Berlin

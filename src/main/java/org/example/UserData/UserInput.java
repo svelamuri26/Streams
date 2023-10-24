@@ -1,4 +1,4 @@
-package org.example.IO;
+package org.example.UserData;
 //Reading User Input until 'Exit'
 //Create a program where users can keep entering strings into the console.
 // The program should terminate when the user types 'Exit'.
