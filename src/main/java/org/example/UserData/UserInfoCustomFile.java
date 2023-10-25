@@ -1,14 +1,19 @@
-package org.example.UserData.UserData.UserData.UserData;
+package org.example.UserData;
+
 import java.io.*;
 import java.util.Scanner;
 
-public class DeleteInfo {
+public class UserInfoCustomFile {
     public static void main(String[] args) {
-        String filePath = "user_info.txt";
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.print("Enter the filename for your user information : ");
+        String fileName = scanner.nextLine();
 
         try {
 
-            BufferedReader fileReader = new BufferedReader(new FileReader(filePath));
+            File file = new File(fileName);
+            BufferedReader fileReader = new BufferedReader(new FileReader(file));
             StringBuilder userData = new StringBuilder();
             String line;
             while ((line = fileReader.readLine()) != null) {
@@ -21,7 +26,6 @@ public class DeleteInfo {
             System.out.println(userData.toString());
 
 
-            Scanner scanner = new Scanner(System.in);
             System.out.print("Enter your new email address (or press Enter to keep it unchanged): ");
             String newEmail = scanner.nextLine();
             System.out.print("Enter your new phone number (or press Enter to keep it unchanged): ");
@@ -32,7 +36,6 @@ public class DeleteInfo {
 
             System.out.print("Do you want to delete your information? (yes or no): ");
             String deleteChoice = scanner.nextLine();
-
 
 
             if ("yes".equalsIgnoreCase(deleteChoice)) {
@@ -50,7 +53,7 @@ public class DeleteInfo {
             }
 
 
-            BufferedWriter fileWriter = new BufferedWriter(new FileWriter(filePath));
+            BufferedWriter fileWriter = new BufferedWriter(new FileWriter(file));
             fileWriter.write(userData.toString());
             fileWriter.close();
 
@@ -60,5 +63,8 @@ public class DeleteInfo {
         } catch (IOException e) {
             System.err.println("An error occurred: " + e.getMessage());
         }
+
+        scanner.close();
     }
 }
+

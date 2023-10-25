@@ -1,4 +1,4 @@
-package org.example.UserData.UserData.UserData.UserData;
+package org.example.UserData;
 
 import java.io.FileWriter;
 import java.io.IOException;

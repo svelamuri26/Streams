@@ -1,52 +1,52 @@
-Oct 24, 2023 4:26:46 PM org.example.UserData.UserData.UserData.UserData.UserLogFile log
+Oct 24, 2023 4:26:46 PM org.example.UserData.UserLogFile log
 INFO: Program started.
-Oct 24, 2023 4:26:46 PM org.example.UserData.UserData.UserData.UserData.UserLogFile log
+Oct 24, 2023 4:26:46 PM org.example.UserData.UserLogFile log
 INFO: User entered a name: John Doe
-Oct 24, 2023 4:26:46 PM org.example.UserData.UserData.UserData.UserData.UserLogFile log
+Oct 24, 2023 4:26:46 PM org.example.UserData.UserLogFile log
 INFO: User entered an age: 30
-Oct 24, 2023 4:26:46 PM org.example.UserData.UserData.UserData.UserData.UserLogFile log
+Oct 24, 2023 4:26:46 PM org.example.UserData.UserLogFile log
 INFO: User entered an email: john@example.com
-Oct 24, 2023 4:26:46 PM org.example.UserData.UserData.UserData.UserData.UserLogFile log
+Oct 24, 2023 4:26:46 PM org.example.UserData.UserLogFile log
 INFO: User entered a phone number: 123-456-7890
-Oct 24, 2023 4:26:46 PM org.example.UserData.UserData.UserData.UserData.UserLogFile log
+Oct 24, 2023 4:26:46 PM org.example.UserData.UserLogFile log
 INFO: User updated email to: john.doe@example.com
-Oct 24, 2023 4:26:46 PM org.example.UserData.UserData.UserData.UserData.UserLogFile log
+Oct 24, 2023 4:26:46 PM org.example.UserData.UserLogFile log
 INFO: User updated phone number to: 987-654-3210
-Oct 24, 2023 4:26:46 PM org.example.UserData.UserData.UserData.UserData.UserLogFile log
+Oct 24, 2023 4:26:46 PM org.example.UserData.UserLogFile log
 INFO: User deleted their information.
-Oct 24, 2023 4:26:46 PM org.example.UserData.UserData.UserData.UserData.UserLogFile log
+Oct 24, 2023 4:26:46 PM org.example.UserData.UserLogFile log
 INFO: Program completed.
-Oct 24, 2023 7:01:06 PM org.example.UserData.UserData.UserData.UserData.UserLogFile log
+Oct 24, 2023 7:01:06 PM org.example.UserData.UserLogFile log
 INFO: Program started.
-Oct 24, 2023 7:01:06 PM org.example.UserData.UserData.UserData.UserData.UserLogFile log
+Oct 24, 2023 7:01:06 PM org.example.UserData.UserLogFile log
 INFO: User entered a name: Sai
-Oct 24, 2023 7:01:06 PM org.example.UserData.UserData.UserData.UserData.UserLogFile log
+Oct 24, 2023 7:01:06 PM org.example.UserData.UserLogFile log
 INFO: User entered an age: 39
-Oct 24, 2023 7:01:06 PM org.example.UserData.UserData.UserData.UserData.UserLogFile log
+Oct 24, 2023 7:01:06 PM org.example.UserData.UserLogFile log
 INFO: User entered an email: sai@example.com
-Oct 24, 2023 7:01:06 PM org.example.UserData.UserData.UserData.UserData.UserLogFile log
+Oct 24, 2023 7:01:06 PM org.example.UserData.UserLogFile log
 INFO: User entered a phone number: 123-456-7890
-Oct 24, 2023 7:01:06 PM org.example.UserData.UserData.UserData.UserData.UserLogFile log
+Oct 24, 2023 7:01:06 PM org.example.UserData.UserLogFile log
 INFO: User updated email to: sai.java@example.com
-Oct 24, 2023 7:01:06 PM org.example.UserData.UserData.UserData.UserData.UserLogFile log
+Oct 24, 2023 7:01:06 PM org.example.UserData.UserLogFile log
 INFO: User updated phone number to: 987-654-3210
-Oct 24, 2023 7:01:06 PM org.example.UserData.UserData.UserData.UserData.UserLogFile log
+Oct 24, 2023 7:01:06 PM org.example.UserData.UserLogFile log
 INFO: User deleted their information.
-Oct 24, 2023 7:01:06 PM org.example.UserData.UserData.UserData.UserData.UserLogFile log
+Oct 24, 2023 7:01:06 PM org.example.UserData.UserLogFile log
 INFO: Program completed.
-Oct 24, 2023 7:01:30 PM org.example.UserData.UserData.UserData.UserData.UserLogFile log
+Oct 24, 2023 7:01:30 PM org.example.UserData.UserLogFile log
 INFO: User entered a name: Sai
-Oct 24, 2023 7:01:30 PM org.example.UserData.UserData.UserData.UserData.UserLogFile log
+Oct 24, 2023 7:01:30 PM org.example.UserData.UserLogFile log
 INFO: User entered an age: 39
-Oct 24, 2023 7:01:30 PM org.example.UserData.UserData.UserData.UserData.UserLogFile log
+Oct 24, 2023 7:01:30 PM org.example.UserData.UserLogFile log
 INFO: User entered an email: sai@example.com
-Oct 24, 2023 7:01:30 PM org.example.UserData.UserData.UserData.UserData.UserLogFile log
+Oct 24, 2023 7:01:30 PM org.example.UserData.UserLogFile log
 INFO: User entered a phone number: 123-456-7890
-Oct 24, 2023 7:01:30 PM org.example.UserData.UserData.UserData.UserData.UserLogFile log
+Oct 24, 2023 7:01:30 PM org.example.UserData.UserLogFile log
 INFO: User updated email to: sai.java@example.com
-Oct 24, 2023 7:01:30 PM org.example.UserData.UserData.UserData.UserData.UserLogFile log
+Oct 24, 2023 7:01:30 PM org.example.UserData.UserLogFile log
 INFO: User updated phone number to: 987-654-3210
-Oct 24, 2023 7:01:30 PM org.example.UserData.UserData.UserData.UserData.UserLogFile log
+Oct 24, 2023 7:01:30 PM org.example.UserData.UserLogFile log
 INFO: User deleted their information.
-Oct 24, 2023 7:01:30 PM org.example.UserData.UserData.UserData.UserData.UserLogFile log
+Oct 24, 2023 7:01:30 PM org.example.UserData.UserLogFile log
 INFO: Program completed.

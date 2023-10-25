@@ -1,4 +1,4 @@
-package org.example.UserData.UserData.UserData.UserData;
+package org.example.UserData;
 
 import java.time.Year;
 import java.util.Scanner;
